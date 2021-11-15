@@ -1,0 +1,258 @@
+[
+    {
+        "id":1,
+        "description":"Module 0: Orientation. How to get ready for this course"
+    },
+    {
+        "id":2,
+        "description":"Module 1: Learn and Explore HTML as a Beginner"
+    },
+    {
+        "id":3,
+        "description":"Module 2: Learn and Explore CSS as a Beginner"
+    },
+    {
+        "id":4,
+        "description":"Module 3: Git, source control, GitHub and hosting"
+    },
+    {
+        "id":5,
+        "description":"Module 4: Build a beautiful and professional portfolio website"
+    },
+    {
+        "id":6,
+        "description":"Module 5: Personal website, build a brand new website"
+    },
+    {
+        "id":7,
+        "description":"Module 6: HTML 5 Semantic tags, audio, video, table, form"
+    },
+    {
+        "id":8,
+        "description":"Module 7: CSS3 overflow, transition, transform, flexbox, grid layout"
+    },
+    {
+        "id":9,
+        "description":"Module 8: Learn and Explore Bootstrap"
+    },
+    {
+        "id":10,
+        "description":"Module 9: Develop an e-commerce website using Bootstrap"
+    },
+    {
+        "id":11,
+        "description":"Module 9.5: Hot Gadgets, e-commerce website by yourself"
+    },
+    {
+        "id":12,
+        "description":"Module 10: Landing Page Milestone Assignment"
+    },
+    {
+        "id":13,
+        "description":"Module 11: CSS Bonus Content"
+    },
+    {
+        "id":14,
+        "description":"Module 12: Getting started with JavaScript"
+    },
+    {
+        "id":15,
+        "description":"Module 13: JavaScript Fundamental Concepts"
+    },
+    {
+        "id":16,
+        "description":"Module 14: Apply Javascript Concepts"
+    },
+    {
+        "id":17,
+        "description":"Module 15: JavaScript Coding Problems, Simple Interview Questions"
+    },
+    {
+        "id":18,
+        "description":"Module 16: Assignment"
+    },
+    {
+        "id":19,
+        "description":"Module 17: Developer Productivity, VS Code Tips & Tricks"
+    },
+    {
+        "id":20,
+        "description":"Module 18: How Javascript Works & DOM"
+    },
+    {
+        "id":21,
+        "description":"Module 19: Function, addEventListener, Event bubble"
+    },
+    {
+        "id":22,
+        "description":"Module 20: Pioneer Bank, develop a simple bank website"
+    },
+    {
+        "id":23,
+        "description":"Module 21: Revisit Javascript and work on Shopping Cart"
+    },
+    {
+        "id":24,
+        "description":"Module 22: Assignment 4"
+    },
+    {
+        "id":25,
+        "description":"Module 23: Modern JavaScript, ES6, ES2015, ECMASCRIPT 2015"
+    },
+    {
+        "id":26,
+        "description":"Module 24: Intermediate JavaScript, Interview Questions "
+    },
+    {
+        "id":27,
+        "description":"Module 25: API JSON, Server, Data load, dynamic website, http"
+    },
+    {
+        "id":28,
+        "description":"Module 26: Object Mastering, Interview Question"
+    },
+    {
+        "id":29,
+        "description":"Module 27: Assignment-5 "
+    },
+    {
+        "id":30,
+        "description":"Module 27: How Browser Works, browser api and methods"
+    },
+    {
+        "id":31,
+        "description":"Module 28: JavaScript debug, web debug, dev tool mastering"
+    },
+    {
+        "id":32,
+        "description":"Module 29: API practice Problem"
+    },
+    {
+        "id":33,
+        "description":"Module 30: Assignment -6"
+    },
+    {
+        "id":34,
+        "description":"Module 31: Modern Front-end core concepts"
+    },
+    {
+        "id":35,
+        "description":"Module 32: React Core Concepts, JSX, props, state"
+    },
+    {
+        "id":36,
+        "description":"Module 33: How React works, Recap React Concepts"
+    },
+    {
+        "id":37,
+        "description":"Module 34: Simple React SPA with Multiple Components"
+    },
+    {
+        "id":38,
+        "description":"Module 35: React Assignment 7 [course ]"
+    },
+    {
+        "id":39,
+        "description":"Module 36:  React Bootstrap, Material UI, Axios, Rechart"
+    },
+    {
+        "id":40,
+        "description":"Module 37: React Routing, State management"
+    },
+    {
+        "id":41,
+        "description":"Module 38: More Router, React Devtool, conditional format"
+    },
+    {
+        "id":42,
+        "description":"Module 39: Context API"
+    },
+    {
+        "id":43,
+        "description":"Module 40: assignment 8"
+    },
+    {
+        "id":44,
+        "description":"Module 41: Simple React Firebase authentication"
+    },
+    {
+        "id":45,
+        "description":"Module 42: Login Form and Route Integration"
+    },
+    {
+        "id":46,
+        "description":"Module 43: Shared auth and Protected Route"
+    },
+    {
+        "id":47,
+        "description":"Module 44: Firebase auth Recap and useReducer"
+    },
+    {
+        "id":48,
+        "description":"Module 45: Getting started with Redux "
+    },
+    {
+        "id":49,
+        "description":"Module 46: Firebase hosting and Travel Guru Assignment"
+    },
+    {
+        "id":50,
+        "description":"Module 47: Node, Express, get api, post api, postman"
+    },
+    {
+        "id":51,
+        "description":"Module 48: Mongodb, cloud database integration, environment variable"
+    },
+    {
+        "id":52,
+        "description":"Module 49: Secure a  node API using JWT token"
+    },
+    {
+        "id":53,
+        "description":"Module 50: E-commerce site Node and Mongodb integration"
+    },
+    {
+        "id":54,
+        "description":"Module 51: Full Stack Milestone Assignment"
+    },
+    {
+        "id":55,
+        "description":"Module 52: Google Map CSS Preprocessor"
+    },
+    {
+        "id":56,
+        "description":"Module: 53: Integrate Stripe Payment gateway (SSLCommerz)"
+    },
+    {
+        "id":57,
+        "description":"Module 54: Complete Website Project part-1"
+    },
+    {
+        "id":58,
+        "description":"Module 55: Complete Website Project part-2"
+    },
+    {
+        "id":59,
+        "description":"Module 55.5: Manage Image Upload and Admin Panel"
+    },
+    {
+        "id":60,
+        "description":"Module 56: Creative Agency Assignment 11"
+    },
+    {
+        "id":61,
+        "description":"Module 57: Data Structure Algorithm and Time Complexity "
+    },
+    {
+        "id":62,
+        "description":"Module 58: Object Oriented Programming (OOP)"
+    },
+    {
+        "id":63,
+        "description":"Module 59: Interview Preparation and Get Ready to be hired "
+    },
+    {
+        "id":64,
+        "description":"Module 60: Last Module Grow as a web Developer"
+    }
+]

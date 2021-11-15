@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "img": {
+            "url": "/img/JhankarMahbub.png",
+            "uAlt": "img"
+        },
+        "name": "Jhankar Mahbub",
+        "pojison": "CEO & Founder"
+    },
+    {
+        "id": 2,
+        "img": {
+            "url": "/img/RaselAhmed.png",
+            "uAlt": "img"
+        },
+        "name": "Rasel Ahmed",
+        "pojison": "Product Manager"
+    },
+    {
+        "id": 3,
+        "img": {
+            "url": "/img/KarinaIslam.png",
+            "uAlt": "img"
+        },
+        "name": "Karina Islam",
+        "pojison": "Advisor"
+    },
+    {
+        "id": 4,
+        "img": {
+            "url": "/img/ShajedulKarim.png",
+            "uAlt": "img"
+        },
+        "name": "Shajedul Karim",
+        "pojison": "Chief Operating Officer"
+    },
+    {
+        "id": 5,
+        "img": {
+            "url": "/img/SufiAhmedHamim.png",
+            "uAlt": "img"
+        },
+        "name": "Sufi Ahmed Hamim",
+        "pojison": "Product Designer"
+    },
+    {
+        "id": 6,
+        "img": {
+            "url": "/img/RezaulKarim.png",
+            "uAlt": "img"
+        },
+        "name": "Rezaul Karim",
+        "pojison": "Product Manager"
+    },
+    {
+        "id": 7,
+        "img": {
+            "url": "/img/MohammadAnwar.png",
+            "uAlt": "img"
+        },
+        "name": "Mohammad Anwar",
+        "pojison": "Senior Software Developer"
+    },
+    {
+        "id": 8,
+        "img": {
+            "url": "/img/MujahidulIslam.png",
+            "uAlt": "img"
+        },
+        "name": "Mujahidul Islam",
+        "pojison": "Content Editor"
+    },
+    {
+        "id": 9,
+        "img": {
+            "url": "/img/TanvirIslam.png",
+            "uAlt": "img"
+        },
+        "name": "Tanvir Islam",
+        "pojison": "Software Engineer"
+    },
+    {
+        "id": 9,
+        "img": {
+            "url": "/img/SadiaSultanaKumu.png",
+            "uAlt": "img"
+        },
+        "name": "Sadia Sultana Kumu",
+        "pojison": "Web Developer"
+    },
+    {
+        "id": 10,
+        "img": {
+            "url": "/img/ManikRoy.png",
+            "uAlt": "img"
+        },
+        "name": "Manik Roy",
+        "pojison": "Web Developer"
+    },
+    {
+        "id": 11,
+        "img": {
+            "url": "/img/ShrikantaMazumder.png",
+            "uAlt": "img"
+        },
+        "name": "Shrikanta Mazumder",
+        "pojison": "Jr. Software developer"
+    },
+    {
+        "id": 12,
+        "img": {
+            "url": "/img/MdRashadTanjim.png",
+            "uAlt": "img"
+        },
+        "name": "Md. Rashad Tanjim",
+        "pojison": "Jr. Android Developer"
+    },
+    {
+        "id": 12,
+        "img": {
+            "url": "/img/AfsaraTasnimLamia.png",
+            "uAlt": "img"
+        },
+        "name": "Afsara Tasnim Lamia",
+        "pojison": "SQA Engineer"
+    }
+]
